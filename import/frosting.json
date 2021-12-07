@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Chestnut Cream",
+        "price": 550,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636879956/CakesOverFlowers/frosting/chestnut_qdwsuq.jpg"
+    },
+    {
+        "name": "Cream Cheese",
+        "price": 550,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636879956/CakesOverFlowers/frosting/creamcheese_jhnj9k.jpg"
+    },
+    {
+        "name": "Fresh Cream",
+        "price": 450,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636879956/CakesOverFlowers/frosting/freshcream_usbajg.jpg"
+    },
+    {
+        "name": "Dark Chocolate Ganache",
+        "price": 500,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636879956/CakesOverFlowers/frosting/darkchoco_qmnln3.jpg"
+    },
+    {
+        "name": "Vanilla Buttercream",
+        "price": 500,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636879956/CakesOverFlowers/frosting/vanillabuttercream_syvifr.jpg"
+    }
+]

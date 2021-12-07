@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Banoffee Pie",
+        "description": "A heavenly combination of banana walnut cake and toffee cream. The banana walnut cake is fluffy and moist, and it's the perfect choice for the toffee cream frosting.",
+        "price": 650,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947147/CakesOverFlowers/cakes/BanoffeePie_wa79ww.jpg"
+    },
+    {
+        "name": "Carrot Walnut Cake",
+        "description": "Deeply moist carrot cake with walnuts, coated with tangy cream cheese frosting.",
+        "price": 1100,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947143/CakesOverFlowers/cakes/Walnut_dysvwn.jpg"
+    },
+    {
+        "name": "Strawberry Cheesecake",
+        "description": "A silky-smooth classic cheesecake on a graham cracker crust with fresh strawberries and homemade strawberry sauce on top.",
+        "price": 1200,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947145/CakesOverFlowers/cakes/StrawberryCheesecakes_qqz8sj.jpg"
+    },
+    {
+        "name": "Blueberry Cheesecake",
+        "description": "A buttery graham cracker crust, a classic creamy and smooth cheesecake center, a tangy blueberry sauce topping, and is coated with whipped cream.",
+        "price": 1200,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947159/CakesOverFlowers/cakes/BlueberryCheesecake1_nra6j0.jpg"
+    },
+    {
+        "name": "Mango Mille Crepe",
+        "description": "An elegant and delectable crepe cake made of thin layers of simple French crepes stacked between layers of lightly sweetened cream and fresh mangoes. It’s Mangonificent!",
+        "price": 900,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947137/CakesOverFlowers/cakes/mango_zp9omq.jpg"
+    },
+    {
+        "name": "Strawberry Tres Leches",
+        "description": "Layers of a wonderful light sponge cake soaked in a mixture of THREE kinds of milk with layers of strawberry filling and whipped cream, topped with fresh strawberries. ",
+        "price": 1200,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947160/CakesOverFlowers/cakes/StrawberryTres_iudllo.jpg"
+    },
+    {
+        "name": "Classic Tres Leches",
+        "description": "Two layers of extremely light sponge cake soaked in THREE kinds of milk, topped with whipped cream, and dusted with cinnamon. It’s sweet, refreshing, and exceptionally delicious.",
+        "price": 850,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947148/CakesOverFlowers/cakes/TresLeches_ka1nxt.jpg"
+    }
+]

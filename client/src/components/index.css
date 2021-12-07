@@ -1,0 +1,47 @@
+.btn-add__remove {
+    background: Transparent;
+    border: none;
+}
+
+.btn-add__remove :hover {
+    cursor: pointer;
+}
+
+.btn-form__primary {
+    background: #B2784A;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+.btn-please__login {
+    background: transparent;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+.btn-cart {
+    font-size: 1rem;
+    padding:  10px 1.5rem;
+    border: none;
+    background: #B2784A;
+    color: #fff;
+    transition: 0.2 ease-out;
+    border-radius: 3px;
+    margin-right: 4px;
+}
+
+.btn-cart :hover {
+    background: #ffc500;
+    transition: 0.2 ease-out;
+    cursor: pointer;
+    color: #000;
+}

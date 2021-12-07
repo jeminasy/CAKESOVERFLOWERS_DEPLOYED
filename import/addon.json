@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Fresh Strawberries",
+        "price": 550,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636880437/CakesOverFlowers/addon/strawberry_il0knd.jpg" 
+    },
+    {
+        "name": "Fresh Mangoes",
+        "price": 550,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636880437/CakesOverFlowers/addon/mangoes_f9x6l3.jpg"
+    }
+]

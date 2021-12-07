@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Flower",
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636880627/CakesOverFlowers/design/flower_lun6ys.jpg"
+    },
+    {
+        "name": "Doodle",
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636880625/CakesOverFlowers/design/doodle_oim2hj.jpg"
+    },
+    {
+        "name": "Korean Style Palette",
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636880626/CakesOverFlowers/design/korean_sstqah.jpg"
+    },
+    {
+        "name": "Basic Lettering",
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636880625/CakesOverFlowers/design/basiclettering_nu8o1e.jpg"
+    },
+    {
+        "name": "Drip",
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636880626/CakesOverFlowers/design/drip_ueol3e.jpg"
+    }
+]

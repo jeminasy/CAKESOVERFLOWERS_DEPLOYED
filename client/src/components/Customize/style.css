@@ -1,0 +1,13 @@
+.button {
+    font-size: 1rem;
+    padding:  1rem 4rem;
+    border: none;
+    background: #B2784A;
+    color: #fff;
+    transition: 0.2 ease-out;
+    border-radius: 20px;
+}
+
+.empty {
+    color: red;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Red Velvet",
+        "price": 450,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636877352/CakesOverFlowers/base/redvelvet_n2bgys.jpg"
+    },
+    {
+        "name": "Carrot",
+        "price": 450,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636877352/CakesOverFlowers/base/CarrotCake_ylsabr.jpg"
+    },
+    {
+        "name": "Vanilla Crepe",
+        "price": 420,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636877352/CakesOverFlowers/base/Crepe_q3hqia.jpg"
+    },
+    {
+        "name": "Vanilla Sponge",
+        "price": 400,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636877352/CakesOverFlowers/base/VanillaSponge_qw010e.jpg"
+    },
+    {
+        "name": "Banana Walnut",
+        "price": 500,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636877353/CakesOverFlowers/base/BananaWalnut._iisqvk.jpg"
+    },
+    {
+        "name": "Flourless Chocolate",
+        "price": 500,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1636877353/CakesOverFlowers/base/Chocolate_mtwn67.jpg"
+    }
+]

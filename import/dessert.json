@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Chocolate Crinkles (25pcs)",
+        "description": "A decadently rich, soft, and fudge-like chocolate cookie with a contrasting coating of powdered sugar. A bite of this dark chocolatey goodness will leave you craving for more.",
+        "price": 200,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947147/CakesOverFlowers/pastries/crinkles_umbvq0.jpg"
+    },
+    {
+        "name": "Chocolate Crinkles (5pcs)",
+        "description": "A decadently rich, soft, and fudge-like chocolate cookie with a contrasting coating of powdered sugar. A bite of this dark chocolatey goodness will leave you craving for more.",
+        "price": 50,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947148/CakesOverFlowers/pastries/crinkles2_kre09d.jpg"
+    },
+    {
+        "name": "Chocolate Brownies (6pcs)",
+        "description": "A fudgy chocolate brownie that is gooey on the inside, crackly on top and is surely a crowd-pleasing dessert.",
+        "price": 80,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947148/CakesOverFlowers/pastries/brownies_vfzfol.jpg"
+    },
+    {
+        "name": "Chocolate Croissant",
+        "description": "A flakey and buttery croissant stuffed with chocolate pieces in the center.",
+        "price": 55,
+        "img": "https://res.cloudinary.com/jemina/image/upload/v1635947146/CakesOverFlowers/pastries/croissant_kibed6.jpg"
+    }
+]
