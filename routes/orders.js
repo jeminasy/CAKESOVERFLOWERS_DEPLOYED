@@ -183,6 +183,7 @@ function getItems(items){
                 <td>
                     ${items[x].baseName}<br />
                     ${items[x].frostingName}<br />
+                    ${items[x].addonName}<br />
                     ${items[x].designName}<br />
                 </td>
                 <td>
