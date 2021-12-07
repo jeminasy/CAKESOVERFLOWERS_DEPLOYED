@@ -73,7 +73,7 @@ exports.forgotPassword = async (req, res, next) => {
 
         await user.save();
 
-        const resetUrl = `http://localhost:3000/resetpassword/${resetToken}`;
+        const resetUrl = `https://rocky-shore-30846.herokuapp.com/resetpassword/${resetToken}`;
 
         const message = `
             <h1>Password Reset</h1>
